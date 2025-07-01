@@ -9,5 +9,6 @@
 <body>
   <h1>Sorry, no real-life example for today.</h1>
   <p>Check back tomorrow for a new example.</p>
+  <script src="//code.tidio.co/81sr0mmaqwmwca01l7zi3podhd4o6vvu.js" async></script>
 </body>
 </html>
